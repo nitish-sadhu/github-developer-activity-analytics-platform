@@ -17,7 +17,7 @@ def extract_to_gcs(date: str, hour: int) -> None:
 	bucket = storage_client.bucket(BASE_BUCKET)
 
 	url = f"{BASE_URL}/{date}-{hour}.json.gz"
-	blob_path = f"{date}/{date}-{hour}.json.gz"
+	blob_path = f"{hour}.json.gz"
 
 
 	try:
