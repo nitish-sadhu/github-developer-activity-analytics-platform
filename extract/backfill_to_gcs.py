@@ -23,7 +23,7 @@ def backfill(date_range:list) -> None:
 
 	for date in date_range:
 		for hour in range(24):
-			date = dat.strftime("%Y-%m-%d")
+			date = pd.Timestamp(date).strftime("%Y-%m-%d")
 			tasks.append((date, hour))
 
 	try:

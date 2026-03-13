@@ -50,6 +50,7 @@ if __name__ == "__main__":
 	date = target_time.strftime("%Y-%m-%d")
 	hour = target_time.hour
 
+	logger.info("==================================================")
 	logger.info(f"Processing github archive file for {date}-{hour}")
 
 	extract_to_gcs(date, hour)

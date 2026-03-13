@@ -1,855 +1,1180 @@
 INFO:__main__:BACKFILL from 2011-02-12 to 2026-03-12 STARTED
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-12 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-12%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-13 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-13%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-14 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-14%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-15 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-15%2000:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-16 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-16%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-17 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-17%2000:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-18 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-18%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-19 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-19%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-20 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-20%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-9.json.gz
-Traceback (most recent call last):
-  File "/home/krishna/github-developer-activity-project/./extract/backfill_to_gcs.py", line 57, in <module>
-    backfill(date_range)
-  File "/home/krishna/github-developer-activity-project/./extract/backfill_to_gcs.py", line 32, in backfill
-    with ThreadPoolExecutor(max_workers=10) as executor:
-  File "/home/krishna/.local/share/uv/python/cpython-3.11.14-linux-x86_64-gnu/lib/python3.11/concurrent/futures/_base.py", line 647, in __exit__
-    self.shutdown(wait=True)
-  File "/home/krishna/.local/share/uv/python/cpython-3.11.14-linux-x86_64-gnu/lib/python3.11/concurrent/futures/thread.py", line 235, in shutdown
-    t.join()
-  File "/home/krishna/.local/share/uv/python/cpython-3.11.14-linux-x86_64-gnu/lib/python3.11/threading.py", line 1119, in join
-    self._wait_for_tstate_lock()
-  File "/home/krishna/.local/share/uv/python/cpython-3.11.14-linux-x86_64-gnu/lib/python3.11/threading.py", line 1139, in _wait_for_tstate_lock
-    if lock.acquire(block, timeout):
-       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-10.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-15.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-14.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-11.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-12.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-13.json.gz
-WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-21 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-21%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-22 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-22%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-23 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-23%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-24 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-24%2000:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-25 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-21.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-25%2000:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-26 00:00:00-23.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-26%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-12.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-11.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-18.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-27 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-27%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-2.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-3.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-6.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-8.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-10.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-9.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-12.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-11.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-13.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-14.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-13.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-14.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-17.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-16.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-15.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-19.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-17.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-16.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-18.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-20.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-15.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-19.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-22.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-20.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-02-28 00:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-22.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-0.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-23.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-0.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-1.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-1.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-02-28%2000:00:00-21.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-5.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-4.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-5.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-4.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-3.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-7.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-2.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-6.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-7.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-8.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-10.json.gz
-ERROR:extract_to_gcs:__ERROR__ : 404 Client Error: Not Found for url: https://data.gharchive.org/2011-03-01%2000:00:00-9.json.gz
-INFO:extract_to_gcs:Starting Download - 2011-03-01 00:00:00-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-12-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-12-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-12-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-12-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-12-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-12-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-13-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-13-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-14-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-14-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-15-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-15-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-16-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-16-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-17-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-17-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-18-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-18-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-19-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-19-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-20-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-20-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-21-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-21-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-22-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-22-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-23-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-23-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-24-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-24-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-25-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-25-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-26-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-26-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-27-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-27-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-02-28-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-02-28-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-01-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-01-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-02-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-02-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-3.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-03-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-03-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-9.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-14.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-19.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-20.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-04-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-04-23.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-6.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-18.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-05-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-0.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-05-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-4.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-5.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-7.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-15.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-16.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-17.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-06-21.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-22.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-06-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-1.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-2.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-8.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-10.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-11.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-12.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-13.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-14.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-15.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-16.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-17.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-18.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-07-19.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-20.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-21.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-22.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-07-23.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-0.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-1.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-2.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-3.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-4.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-5.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-6.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-7.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-8.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-9.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-10.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-11.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-12.json.gz
+INFO:extract_to_gcs:Starting Download - 2011-03-08-13.json.gz
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting upload to raw-github-dev-activity
+INFO:extract_to_gcs:Starting Download - 2011-03-08-14.json.gz
