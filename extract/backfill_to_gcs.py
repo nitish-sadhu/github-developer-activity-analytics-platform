@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 
 START_DATE = "2011-02-12"
-END_DATE = "2026-03-12"
+END_DATE = "2026-03-13"
 
 
 
@@ -30,7 +30,7 @@ def backfill(date_range:list) -> None:
 
 		logger.info(f"BACKFILL from {START_DATE} to {END_DATE} STARTED")
 
-		with ThreadPoolExecutor(max_workers=10) as executor:
+		with ThreadPoolExecutor(max_workers=16) as executor:
 			executor.map(worker, tasks)
 
 	except Exception as e:
