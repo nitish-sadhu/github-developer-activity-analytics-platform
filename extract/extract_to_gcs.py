@@ -27,7 +27,7 @@ def extract_to_gcs(date: str, hour: int) -> None:
 
 
 	try:
-
+		logger.info("==================================================")
 		logger.info(f"Starting Download - {date}-{hour}.json.gz")
 		logger.info(f"___URL___: {url}")
 
@@ -61,7 +61,6 @@ if __name__ == "__main__":
 	date = target_time.strftime("%Y-%m-%d")
 	hour = target_time.hour
 
-	logger.info("==================================================")
 	logger.info(f"Processing github archive file for {date}-{hour}")
 
 	extract_to_gcs(date, hour)
