@@ -3,6 +3,7 @@ from pyspark.sql import SparkSession
 import logging
 from datetime import datetime, timedelta
 from pathlib import Path
+import pandas as pd
 
 logger = logging.getLogger(__name__)
 
@@ -46,13 +47,13 @@ def upload_to_gcs(tgt_blob_path, tgt_bucket):
 
 def convert_to_parquet(date, hour) -> None:
 
-	year = date.strftime("%Y")
-	month = date.strftime("%m")
-	day = date.strftime("%d")
+	year = pd.Timestamp(date).strftime("%Y")
+	month = pd.Timestamp(date).strftime("%m")
+	day = pd.Timestamp(date).strftime("%d")
 
 
 	src_blob_path = f"{year}/{month}/{day}/{hour}.json.gz"
-	tgt_blob_path = f"{year}/{month}/{day}/{hour}.parquet"
+	tgt_blob_path = f"{year}/{month}/{day}/{hour}"
 
 
 	storage_client = create_storage_client()
@@ -74,7 +75,7 @@ def convert_to_parquet(date, hour) -> None:
 	spark = create_SparkSession()
 
 	df = spark.read.json(f"{TMP_FILES_PATH}/tmp.json.gz")
-	df.write.parquet(f"{TMP_FILES_PATH}/tmp.parquet")
+	df.write.parquet(f"{TMP_FILES_PATH}/tmp_parquet")
 
 
 	upload_to_gcs(tgt_blob_path, tgt_bucket)
@@ -91,4 +92,4 @@ if __name__ == "__main__":
 
 	hour = tgt_time.hour
 
-	convert_to_parquet(now, hour) 
+	convert_to_parquet("2012-02-01", 5) 
