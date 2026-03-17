@@ -63,4 +63,9 @@ if __name__ == "__main__":
 
 	logger.info(f"Processing github archive file for {date}-{hour}")
 
-	extract_to_gcs(date, hour)
+	start_date = "2011-02-12"
+	end_date = "2011-12-31"
+
+	date_range = pd.date_range(start_date, end_date, freq="D")
+
+	extract_to_gcs(str(date), hour)

@@ -212,3 +212,6 @@ __marimo__/
 
 # temporary files
 tmp_files/
+
+# .idea folder
+.idea/

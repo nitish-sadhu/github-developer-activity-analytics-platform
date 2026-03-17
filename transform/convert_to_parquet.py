@@ -5,10 +5,11 @@ from datetime import datetime, timedelta
 from pathlib import Path
 import pandas as pd
 
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-TMP_FILES_PATH = "/home/krishna/github-developer-activity-project/tmp_files"
+TMP_FILES_PATH = "/Users/krishnasadhu/gh-dev-activity-analytics/tmp_files"
 SRC_BUCKET_NAME = "raw-github-dev-activity"
 TGT_BUCKET_NAME = "int-gh-dev-activity-parq"
 
@@ -35,11 +36,15 @@ def create_storage_client():
 
 def upload_to_gcs(tgt_blob_path, tgt_bucket):
 
-	parquet_dir = Path(TMP_FILES_PATH) / "tmp.parquet"
+	parquet_dir = Path(TMP_FILES_PATH) / "tmp_parquet"
+
+
 
 	for file in parquet_dir.glob("*.parquet"):
+		logger.info(f"Started upload: {file}")
 		tgt_blob = tgt_bucket.blob(f"{tgt_blob_path}/{file.name}")
 		tgt_blob.upload_from_filename(file)
+		logger.info(f"Upload complete: {file}")
 
 	return None
 
@@ -75,8 +80,9 @@ def convert_to_parquet(date, hour) -> None:
 	spark = create_SparkSession()
 
 	df = spark.read.json(f"{TMP_FILES_PATH}/tmp.json.gz")
-	df.write.parquet(f"{TMP_FILES_PATH}/tmp_parquet")
+	df.write.mode("overwrite").parquet(f"{TMP_FILES_PATH}/tmp_parquet")
 
+	logger.info(f"Converted {year}/{month}/{day}/{hour}.json.gz to parquet.")
 
 	upload_to_gcs(tgt_blob_path, tgt_bucket)
 
@@ -92,4 +98,11 @@ if __name__ == "__main__":
 
 	hour = tgt_time.hour
 
-	convert_to_parquet("2012-02-01", 5) 
+	start_date = "2011-02-12"
+	end_date = "2011-12-31"
+
+	date_range = pd.date_range(start_date, end_date, freq="D")
+
+	for date in date_range:
+		for hour in range(24):
+			convert_to_parquet(str(date), hour)
