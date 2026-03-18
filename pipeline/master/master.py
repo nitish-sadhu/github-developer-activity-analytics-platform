@@ -1,5 +1,5 @@
-import cleanup.clean_gcs_bucket as cub
-import transform.convert_to_parquet as ctp
+#import cleanup.clean_gcs_bucket as cub
+import pipeline.transform.convert_to_parquet as ctp
 import logging
 import pandas as pd
 
@@ -7,8 +7,8 @@ logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
 
-    start_date = "2011-02-12"
-    end_date = "2011-12-31"
+    start_date = "2011-07-16"
+    end_date = "2021-01-31"
 
     date_range = pd.date_range(start_date, end_date, freq="D")
 
@@ -21,10 +21,6 @@ if __name__ == "__main__":
             logger.info(f"___COMPLETED___: Conversion complete, date: {date}, hour: {hour}")
 
 
-            logger.info(f"___STARTED___: Deleting file. Bucket: \"raw-github-dev-activity\", date: {date}, hour: {hour}")
 
-            cub.clean_gcs_bucket(date, hour)
-
-            logger.info(f"___COMPLETED___: Deletion complete. bucket: \"raw-github-dev-activity\", date: {date}, hour: {hour}")
 
 
