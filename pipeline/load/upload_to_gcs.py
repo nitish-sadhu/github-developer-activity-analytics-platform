@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 
 
 TGT_BUCKET_NAME = "raw-gh-dev-activity-parq"
-TMP_FILES_PATH = "/tmp_files"
+TMP_FILES_PATH = "/Users/krishnasadhu/gh-dev-activity-analytics/tmp_files"
 
 
 def create_gcs_bucket(client, bucket_name):
@@ -22,7 +22,19 @@ def create_storage_client():
 
 def get_bucket():
     storage_client = create_storage_client()
-    bucket = storage_client.bucket(TGT_BUCKET_NAME)
+
+    if storage_client.lookup_bucket(TGT_BUCKET_NAME):
+        bucket = storage_client.bucket(TGT_BUCKET_NAME)
+    else:
+        logger.warning("___WARNING___: Bucket does not exist.")
+        logger.info(f"___CREATING BUCKET___: {TGT_BUCKET_NAME}")
+
+        create_gcs_bucket(storage_client, TGT_BUCKET_NAME)
+
+        logger.info(f"___BUCKET CREATION COMPLETE___: {TGT_BUCKET_NAME}")
+
+        bucket = get_bucket()
+
     return bucket
 
 
