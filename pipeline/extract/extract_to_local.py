@@ -1,17 +1,18 @@
-from google.cloud import storage
-from datetime import datetime, timedelta
+from params.params import BASE_URL
+
 import requests
-import logging 
-import pandas as pd
+import logging
+from pipeline.transform.convert_to_parquet import TMP_FILES_PATH
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-BASE_URL = "https://data.gharchive.org"
+#BASE_URL = "https://data.gharchive.org"
 
 
 def extract_to_local(date: str, hour: int) -> None:
+
 
 	url = f"{BASE_URL}/{date}-{hour}.json.gz"
 
@@ -20,9 +21,8 @@ def extract_to_local(date: str, hour: int) -> None:
 		logger.info(f"___STARTING DOWNLOAD___: {date}-{hour}.json.gz")
 		logger.info(f"___URL___: {url}")
 
-		response = requests.get(url)
 
-		with open("/tmp_files/tmp.json.gz", "wb") as file:
+		with open(f"{TMP_FILES_PATH}/tmp.json.gz", "wb") as file:
 			with requests.get(url) as response:
 				response.raise_for_status()
 				file.write(response.content)

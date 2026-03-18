@@ -1,3 +1,5 @@
+from params.params import TMP_FILES_PATH
+
 from pyspark.sql import SparkSession
 import logging
 import pandas as pd
@@ -6,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-TMP_FILES_PATH = "/tmp_files"
+#TMP_FILES_PATH = "/Users/krishnasadhu/gh-dev-activity-analytics/tmp_files"
 
 
 def create_sparksession() -> SparkSession:

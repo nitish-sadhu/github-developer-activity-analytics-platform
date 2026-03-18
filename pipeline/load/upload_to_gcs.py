@@ -1,3 +1,5 @@
+from params.params import TMP_FILES_PATH, TGT_BUCKET_NAME
+
 from google.cloud import storage
 import logging
 from pathlib import Path
@@ -7,8 +9,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-TGT_BUCKET_NAME = "raw-gh-dev-activity-parq"
-TMP_FILES_PATH = "/Users/krishnasadhu/gh-dev-activity-analytics/tmp_files"
+#TGT_BUCKET_NAME = "raw-gh-dev-activity-parq"
+#TMP_FILES_PATH = "/Users/krishnasadhu/gh-dev-activity-analytics/tmp_files"
 
 
 def create_gcs_bucket(client, bucket_name):
