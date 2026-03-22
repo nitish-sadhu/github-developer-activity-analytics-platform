@@ -1,6 +1,6 @@
-import pipeline.transform.convert_to_parquet as ctp
-import pipeline.extract.extract_to_local as etl
-import pipeline.load.upload_to_gcs as utg
+import pipeline_version_01.transform.convert_to_parquet as ctp
+import pipeline_version_01.extract.extract_to_local as etl
+import pipeline_version_01.load.upload_to_gcs as utg
 import logging
 import pandas as pd
 
@@ -10,8 +10,8 @@ logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
 
-    start_date = "2011-02-12"
-    end_date = "2011-02-28"
+    start_date = "2011-03-01"
+    end_date = "2011-03-31"
 
     date_range = pd.date_range(start_date, end_date, freq="D")
 

@@ -2,7 +2,7 @@ from params.params import BASE_URL
 
 import requests
 import logging
-from pipeline.transform.convert_to_parquet import TMP_FILES_PATH
+from pipeline_version_01.transform.convert_to_parquet import TMP_FILES_PATH
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
