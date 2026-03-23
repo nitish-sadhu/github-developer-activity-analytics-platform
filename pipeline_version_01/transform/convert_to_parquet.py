@@ -1,4 +1,4 @@
-from params.params import TMP_FILES_PATH
+from pipeline_version_01.params.params import TMP_FILES_PATH
 
 from pyspark.sql import SparkSession
 import logging

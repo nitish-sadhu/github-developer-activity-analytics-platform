@@ -1,4 +1,4 @@
-from params.params import TMP_FILES_PATH, TGT_BUCKET_NAME
+from pipeline_version_01.params.params import TMP_FILES_PATH, TGT_BUCKET_NAME
 
 from google.cloud import storage
 import logging

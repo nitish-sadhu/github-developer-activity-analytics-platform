@@ -1,4 +1,4 @@
-from params.params import BASE_URL
+from pipeline_version_01.params.params import BASE_URL
 
 import requests
 import logging
