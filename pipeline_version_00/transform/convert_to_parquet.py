@@ -1,4 +1,6 @@
-from google.cloud import storage 
+from params.params import TMP_FILES_PATH, TGT_BUCKET_NAME, SRC_BUCKET_NAME
+
+from google.cloud import storage
 from pyspark.sql import SparkSession
 import logging
 from datetime import datetime, timedelta
@@ -9,12 +11,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-TMP_FILES_PATH = "/tmp_files"
-SRC_BUCKET_NAME = "raw-github-dev-activity"
-TGT_BUCKET_NAME = "int-gh-dev-activity-parq"
 
 
-def create_SparkSession() -> SparkSession:
+def create_sparksession() -> SparkSession:
 
 	return SparkSession.builder \
 			.appName("select_cols.py") \
@@ -77,7 +76,7 @@ def convert_to_parquet(date, hour) -> None:
 	src_blob.download_to_filename(f"{TMP_FILES_PATH}/tmp.json.gz")
 
 
-	spark = create_SparkSession()
+	spark = create_sparksession()
 
 	df = spark.read.json(f"{TMP_FILES_PATH}/tmp.json.gz")
 	df.write.mode("overwrite").parquet(f"{TMP_FILES_PATH}/tmp_parquet")

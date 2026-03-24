@@ -211,7 +211,7 @@ __marimo__/
 
 
 # temporary files
-pipeline_version_00/tmp_files/
+tmp_files/
 
 # .idea folder
 .idea/

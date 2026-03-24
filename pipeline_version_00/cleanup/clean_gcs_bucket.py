@@ -1,10 +1,11 @@
+from params.params import SRC_BUCKET_NAME
+
 from google.cloud import storage
 import pandas as pd
 import logging
 
 logger = logging.getLogger(__name__)
 
-BUCKET_NAME = "raw-github-dev-activity"
 
 def clean_gcs_bucket(date, hour) -> None:
 
@@ -16,8 +17,7 @@ def clean_gcs_bucket(date, hour) -> None:
 
     client = storage_client()
 
-    #try:
-    bucket = client.get_bucket(BUCKET_NAME)
+    bucket = client.get_bucket(SRC_BUCKET_NAME)
     blob = bucket.get_blob(blob_path)
 
     blob.delete()
@@ -25,10 +25,6 @@ def clean_gcs_bucket(date, hour) -> None:
     if blob.exists():
         logger.info("____FAILED____: Delete failed.")
         raise
-
-    #except Exception as e:
-        logger.error(f"___ERROR___: {e}")
-
 
     return None
 

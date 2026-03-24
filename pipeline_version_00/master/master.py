@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
 
-    start_date = "2011-02-12"
+    start_date = "2011-03-19"
     end_date = "2011-12-31"
 
     date_range = pd.date_range(start_date, end_date, freq="D")

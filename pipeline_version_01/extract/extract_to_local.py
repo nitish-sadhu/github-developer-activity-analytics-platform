@@ -1,8 +1,8 @@
-from pipeline_version_01.params.params import BASE_URL
+from params.params import BASE_URL, TMP_FILES_PATH
 
 import requests
 import logging
-from pipeline_version_01.transform.convert_to_parquet import TMP_FILES_PATH
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
